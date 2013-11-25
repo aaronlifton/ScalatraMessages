@@ -1,0 +1,4 @@
+ScalatraMessages
+================
+
+scalatra messageboard [WIP]
